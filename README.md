@@ -11,18 +11,16 @@
 - 🤝 Open to collaborating on **data analytics projects**  
 - 🚀 Always curious to learn & grow in tech  
 
----
+---  
 
-## 🛠️ Tech Stack  
-
-### 🔹 Languages & Tools  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
-
-### 🔹 Other Tools   
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+## 🔹 Core Skills  
+- Excel (Advanced)
+- SQL (CTEs, Aggregate Functions, Window Functions, Group By Clauses & Joins)
+- Power BI (Data Visualization & DAX)
+- Python (NumPy & Pandas)
+- Statistical Analysis (Descriptive & Inferential Statistics, Hypothesis Testing)
+- Data Analysis & Statistical Interpretation
+- Business Intelligence
 
 ---
 
@@ -31,10 +29,11 @@ To apply my skills in a **Data Analyst role**, contribute to real-world projects
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/narendran-r-11a851139)  
-- 📧 Mail: **anandnaren99@gmail.com**
-- 📱 Mobile : +91 8072668794
+## 📫 Connect with Me
+Actively seeking Data Analyst roles where I can transform raw data into actionable business insights. I'd love to connect!
+  - 💼 [LinkedIn](https://www.linkedin.com/in/narendran-r-11a851139)  
+  - 📧 Mail: **anandnaren99@gmail.com**
+  - 📱 Mobile : +91 8072668794
 
 ---
 
