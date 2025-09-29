@@ -1,16 +1,41 @@
-## Hi there 👋
+## 👋 Hey, I’m Narendran   
 
-<!--
-**DevAnand2599/DevAnand2599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a **Software Testing professional** (1.8 YOE @ TCS) now transitioning into **Data Analytics**.  
+📊 I love exploring data, finding insights, and turning numbers into strategies that create real impact.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ About Me  
+- 🌱 Currently diving deep into **Excel, SQL, Python & Power BI**  
+- 📈 Passionate about **data-driven decision making**  
+- 🤝 Open to collaborating on **data analytics projects**  
+- 🚀 Always curious to learn & grow in tech  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🔹 Languages & Tools  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)  
+
+### 🔹 Other Tools   
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+
+---
+
+## 🎯 Goals  
+To apply my skills in a **Data Analyst role**, contribute to real-world projects, and keep growing in the field of analytics 🌱.  
+
+---
+
+## 📫 Connect with Me  
+- 💼 [LinkedIn](https://www.linkedin.com/in/narendran-r-11a851139)  
+- 📧 Mail: **anandnaren99@gmail.com**  
+
+---
+
+✨ *Turning data into decisions, one query at a time.*  
+✨ *Always learning, always analysing.* 
