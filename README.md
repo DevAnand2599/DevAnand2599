@@ -1,5 +1,5 @@
-## 👋 Hey, I’m Narendran   
-
+# 👋 Hey, I’m Narendran   
+## Data Analytics Enthusiast | MS Excel | SQL | Power BI | Open to New Opportunities
 💻 I’m a **Software Testing professional** (1.8 YOE @ TCS) now transitioning into **Data Analytics**.  
 📊 I love exploring data, finding insights, and turning numbers into strategies that create real impact.  
 
@@ -33,7 +33,8 @@ To apply my skills in a **Data Analyst role**, contribute to real-world projects
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/narendran-r-11a851139)  
-- 📧 Mail: **anandnaren99@gmail.com**  
+- 📧 Mail: **anandnaren99@gmail.com**
+- 📱 Mobile : +91 8072668794
 
 ---
 
